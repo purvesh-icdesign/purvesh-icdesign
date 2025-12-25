@@ -14,20 +14,19 @@
 
 - 📫 How to reach me **chandrakarpurvesh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/purvesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purvesh kumar" height="30" width="40" /></a>
-</p>
 ## 🛠️ Skills & Tools
 
-**VLSI & Digital Design:** CMOS Fundamentals, Digital IC Design, RTL Design & Synthesis, STA, Physical Design (RTL–GDS)  
+**Hardware Description Languages:** Verilog HDL, System Verilog   
 
-**Verification:** SystemVerilog, UVM, Testbench Development, Functional Coverage & Debug  
+**Design & Verification:** RTL Design, Synthesis, Static Timing Analysis (STA), Physical Design, UVM 
 
-**FPGA:** FPGA Design & Debugging, RTL Simulation, Xilinx Vivado  
+**Communication Protocols:** UART, SPI, I2C, AMBA APB  
 
-**Programming:** Verilog HDL, SystemVerilog, C/C++, Python  
+**Programming:** C/C++, Python  
 
 **EDA Tools:** Cadence Virtuoso, Innovus, Tempus, Xilinx Vivado, LTspice, OrCAD  
 
-**Interfaces:** UART, SPI, I²C  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/purvesh-kumar-079b351b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/purvesh-kumar-079b351b3" height="30" width="40" /></a>
+</p>
