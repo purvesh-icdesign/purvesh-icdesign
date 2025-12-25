@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Verilog / SystemVerilog RTL & Verification Projects – FIFO, RISC-V cores, testbench development, and UVM-based verification**
 
-- 💬 Ask me about **FIFO, RISC-V CPU, and digital block design**
-
 - 📫 How to reach me **chandrakarpurvesh@gmail.com**
 
 ## 🛠️ Skills & Tools
