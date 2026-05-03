@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purvesh Kumar</h1>
 <h3 align="center">RTL Design, Verification, Physical Implementation & Tapeout</h3>
 
-<img align="right" alt="VLSI" width="300" src="https://chipxpert.in/wp-content/uploads/2025/04/The-Different-Types-of-Technology-GIF.gif">
+<img align="right" alt="VLSI" width="200" src="https://chipxpert.in/wp-content/uploads/2025/04/The-Different-Types-of-Technology-GIF.gif">
 
 
 - 🔭 **Silicon Tapeout Experience:**  Complete ASIC implementation (Synthesis, STA, CTS, PnR, DRC/LVS) using Cadence Genus, Innovus & Tempus; FFT Processor (8 Point) design successfully submitted for fabrication (tapeout)
