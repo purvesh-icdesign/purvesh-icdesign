@@ -4,26 +4,27 @@
 <img align="right" alt="VLSI" width="400" src="https://chipxpert.in/wp-content/uploads/2025/04/The-Different-Types-of-Technology-GIF.gif">
 
 
-- 🔭 **RTL-to-GDS Flow Projects**  
-Complete ASIC implementation (synthesis, STA, CTS, PnR, DRC/LVS) using Cadence Innovus & Tempus; UART design successfully submitted for fabrication (tapeout)
+- 🔭 **RTL-to-GDS Flow Projects**  Complete ASIC implementation (Synthesis, STA, CTS, PnR, DRC/LVS) using Cadence Genus, Innovus & Tempus; FFT Processor (8 Point) design successfully submitted for fabrication (tapeout)
 
-- 🌱 I’m currently learning **Advanced Verilog coding, UVM-based verification, FPGA implementation/debugging, STA, CTS, and physical design optimization.**
-
-- 👯 I’m looking to collaborate on **Verilog / SystemVerilog RTL & Verification Projects – FIFO, RISC-V cores, testbench development, and UVM-based verification**
+- 🌱 **Advanced Verilog coding, UVM-based verification, FPGA implementation/debugging, STA, CTS, and physical design optimization**
 
 - 📫 How to reach me **chandrakarpurvesh@gmail.com**
 
 ## 🛠️ Skills & Tools
 
+**Cadence Tools:** Virtuoso, Xcelium, Genus, Innovus, Tempus, Jaspergold, Conformal, Siemens Calibre (DRC/LVS/Antenna), Xilinx Vivado, LTspice, OrCAD  
+
+**Synopsys Tools:** VCS, Verdi, ICC2 Compiler, Design Compiler, Custom Compiler  
+
 **Hardware Description Languages:** Verilog HDL, System Verilog   
 
-**Design & Verification:** RTL Design, Synthesis, Static Timing Analysis (STA), Physical Design, UVM 
+**Design & Verification:** RTL Design, Physical Design, Synthesis, Static Timing Analysis (STA), UVM 
 
-**Communication Protocols:** UART, SPI, I2C, AMBA APB  
+**Communication Protocols:** UART, SPI, I2C, AMBA APB, AXI, AHB
 
 **Programming:** C/C++, Python  
 
-**EDA Tools:** Cadence Virtuoso, Innovus, Tempus, Xilinx Vivado, LTspice, OrCAD  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
