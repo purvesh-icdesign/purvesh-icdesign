@@ -4,7 +4,8 @@
 <img align="right" alt="VLSI" width="400" src="https://chipxpert.in/wp-content/uploads/2025/04/The-Different-Types-of-Technology-GIF.gif">
 
 
-- 🔭 I’m currently working on **RTL-to-GDS Flow Projects – Digital block implementation including synthesis, STA, CTS, and physical design using Cadence Innovus & Tempus**
+- 🔭 **RTL-to-GDS Flow Projects**  
+Complete ASIC implementation (synthesis, STA, CTS, PnR, DRC/LVS) using Cadence Innovus & Tempus; UART design successfully submitted for fabrication (tapeout)
 
 - 🌱 I’m currently learning **Advanced Verilog coding, UVM-based verification, FPGA implementation/debugging, STA, CTS, and physical design optimization.**
 
