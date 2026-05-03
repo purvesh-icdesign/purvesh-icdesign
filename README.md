@@ -12,13 +12,15 @@
 
 ## 🛠️ Skills & Tools
 
-**Cadence Tools:** Virtuoso, Xcelium, Genus, Innovus, Tempus, Jaspergold, Conformal, Siemens Calibre (DRC/LVS/Antenna), Xilinx Vivado, LTspice, OrCAD  
+**Cadence Tools:** Virtuoso, Xcelium, Genus, Innovus, Tempus, Jaspergold, Conformal
 
-**Synopsys Tools:** VCS, Verdi, ICC2 Compiler, Design Compiler, Custom Compiler  
+**Synopsys Tools:** VCS, Verdi, ICC2 Compiler, Design Compiler, Custom Compiler
+
+**Siemens Tools:** Calibre, Oasys, Questa, HDL Designer
 
 **Hardware Description Languages:** Verilog HDL, System Verilog   
 
-**Design & Verification:** RTL Design, Physical Design, Synthesis, Static Timing Analysis (STA), UVM 
+**Design & Verification:** RTL Design, Physical Design, Static Timing Analysis (STA), UVM 
 
 **Communication Protocols:** UART, SPI, I2C, AMBA APB, AXI, AHB
 
