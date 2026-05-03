@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Purvesh Kumar</h1>
-<h3 align="center">From RTL & verification to physical implementation</h3>
+<h3 align="center">From RTL Design & Verification to Physical Implementation</h3>
 
 <img align="right" alt="VLSI" width="400" src="https://chipxpert.in/wp-content/uploads/2025/04/The-Different-Types-of-Technology-GIF.gif">
 
 
-- 🔭 **RTL-to-GDS Flow Projects**  Complete ASIC implementation (Synthesis, STA, CTS, PnR, DRC/LVS) using Cadence Genus, Innovus & Tempus; FFT Processor (8 Point) design successfully submitted for fabrication (tapeout)
+- 🔭 **RTL-to-GDS Flow Projects:**  Complete ASIC implementation (Synthesis, STA, CTS, PnR, DRC/LVS) using Cadence Genus, Innovus & Tempus; FFT Processor (8 Point) design successfully submitted for fabrication (tapeout)
 
 - 🌱 **Advanced Verilog coding, UVM-based verification, FPGA implementation/debugging, STA, CTS, and physical design optimization**
 
