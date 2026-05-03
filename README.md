@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purvesh Kumar</h1>
-<h3 align="center">RTL Design, Verification, Physical Implementation & Tapeout</h3>
+<h3 align="center">🚀 Experience: RTL Design, Verification, Physical Implementation & Tapeou</h3>
 
 <img align="right" alt="VLSI" width="200" src="https://chipxpert.in/wp-content/uploads/2025/04/The-Different-Types-of-Technology-GIF.gif">
 
